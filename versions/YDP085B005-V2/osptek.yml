@@ -1,0 +1,10 @@
+id: YDP085B005-V2
+category: displays
+size: "0.85"
+panel: tft
+resolution: 128x128
+interface: [spi]
+driver: GC9107
+touch: null
+outline: 17.58 x 20.82 x 1.46 mm
+active_area: 15.21 x 15.21 mm
